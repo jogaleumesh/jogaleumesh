@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm <a href="" target="_blank"> Umesh Jogale </a></h1>
 
-Hi, i'm passionate self-taught Frontend Developer & Hybrid App Developer from india. who likes exploring new technologies and frameworks for web development. I carry a wide range of knowledge and experience working with Angular, React, Vue, Ionic, Flutter, Node etc. technologies. It's been more than 5yrs since I have been around in product development. I worked on several projects which belong to so many different domains.
+Hi, I'm a passionate self-taught Frontend Developer & Hybrid App Developer from India. who likes exploring new technologies and frameworks for web development. I carry a wide range of knowledge and experience working with Angular, React, Vue, Ionic, Flutter, Node, etc. technologies. It's been more than +6yrs since I have been around in product development. I worked on several projects which belong to so many different domains.
 
-Taking simple step everyday
+Taking small steps every day.
 
 **Languages and Tools:**  
 
